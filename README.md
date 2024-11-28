@@ -2,6 +2,10 @@
 
 一个使用Go语言和Fyne框架开发的数独游戏。
 
+## 效果图
+
+![效果图](https://raw.githubusercontent.com/wangle201210/sudoku/main/image.png)
+
 ## 功能特点
 
 - 标准9x9数独游戏
